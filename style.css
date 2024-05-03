@@ -23,7 +23,7 @@ width: 10%;
 }
 .cabecalho-lista-item a{
     text-decoration: none;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .escola-imagem{
@@ -52,7 +52,7 @@ width: 10%;
 }
 
 .estudante-imagem{
-    width: 180px;
+    width: 150px;
 }
 
 .estudante-icone{
@@ -61,7 +61,7 @@ width: 10%;
 }
 .estudante-div{
     text-align: center;
-    padding: 20px 0;
+    padding: 50px 0;
 }
 
 .estudante-titulo{
