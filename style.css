@@ -74,6 +74,9 @@ width: 10%;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
+.estudante-titulo-melhores{
+    text-align: center;
+}
 .rodape{
     background-image: linear-gradient(#2c2c2c, #060707);
     text-align: center;
