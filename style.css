@@ -10,7 +10,7 @@ body {
     color: white;
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items: none;
     padding: 24px 0;
 }
 .cabecalho-imagem{
@@ -35,7 +35,7 @@ width: 10%;
     color: rgb(255, 255, 255);
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: none;
     padding: 24px 0;
 }
 
